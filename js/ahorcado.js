@@ -29,7 +29,7 @@ function play(dir) {
   var audio = new Audio(dir);
   audio.play();
 }
-
+/*fun*/
 function teclado(btn, palabra) {
   if (window.endgame == false) {
     let encontrado = false;
