@@ -22,7 +22,7 @@ var listaPalabras = [
   "python",
   "datos",
   "variable",
-  "metodo",
+ 
 ];
 
 function play(dir) {
